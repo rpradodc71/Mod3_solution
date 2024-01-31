@@ -1,0 +1,99 @@
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 3px solid black;
+  /* padding: 10px;
+  margin: -5px; */
+  padding-bottom: 0px;
+
+
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: black;
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-right: -15px;
+  margin-left: -15px;
+  margin-top: -1px;
+  margin-bottom: -1px;
+  /* border: 2px;
+  border: solid black; */
+}
+
+#nav-list a {
+  background: white;
+  color:black;
+  text-align: center;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  
+}
+
+#nav-list a:hover {
+  background-color: lightgray;
+}
+
+.button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+  margin: 0;
+  
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+  margin-bottom: 20px;
+}
+
+.row {
+  padding: 50px;
+}
+
+.columna {
+  color: black;
+  font-size: 1em;
+  background-color: grey;
+  margin: 5px;
+  margin-left:0cm;
+  padding: 20px;
+}
+
+#Our-Menu{
+  color: black;
+  font-size: 2em;  
+  font-weight: bold;
+
+}
+
+#Chicken-tile {
+  color: black;
+  font-size: 20px;  
+  font-weight: bold;
+  text-align: center;
+}
+
+#Beef-tile {
+  color: black;
+  font-size: 20px;  
+  font-weight: bold;
+  text-align: center;
+}
+
+#Sushi-tile {
+  color: black;
+  font-size: 20px;  
+  font-weight: bold;
+  text-align: center;
+}
+
